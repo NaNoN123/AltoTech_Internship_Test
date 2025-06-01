@@ -7,6 +7,8 @@ Chanchon Patthanawanitchanan
 
 The colab could view by access this like:
 https://colab.research.google.com/drive/1pT6TDl4uEKIvUQWb7BG6taNG4fZRrfij?usp=sharing
+The explanation and answer in each section could be viwed in code mark down and Result.pdf file
+The result of code could be viwed in Result.pdf file
 
 
 ในการแก้ไขปัญหาได้เขียนไฟล์ให้ในcolab เพื่อความสะดวกแก่การใช้งานได้ในทุกอุปกรณ์โดยไม่มีความจำเป็นต้องติดตั้งอะไร
