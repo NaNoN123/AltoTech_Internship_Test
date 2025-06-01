@@ -7,7 +7,7 @@ Chanchon Patthanawanitchanan
 
 The colab could view by access this like:
 https://colab.research.google.com/drive/1pT6TDl4uEKIvUQWb7BG6taNG4fZRrfij?usp=sharing
-The explanation and answer in each section could be viwed in code mark down and Result.pdf file
+The explanation, discussion and answer in each section could be viwed in code mark down and Result.pdf file
 The result of code could be viwed in Result.pdf file
 
 
